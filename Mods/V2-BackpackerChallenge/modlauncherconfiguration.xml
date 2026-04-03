@@ -1,11 +1,12 @@
 <Servers>
-  <ServerGroup Name="Backpacker Challenge (V2)">
-    <Server Name="Backpacker Challenge (V2)" Logo="https://i.imgur.com/13GRILd.jpeg">
+  <ServerGroup Name="Backpacker Challenge">
+    <Server Name="Backpacker Challenge" Logo="https://i.imgur.com/13GRILd.jpeg">
       <Description>Restricts crafting to backpack and campfire recipes.
 	  
 Backpacker Challenge allows our streamers, party players, and lone wolves to play by a simple set of predetermined rules.
 	  
 RULES:
+- Updated to current V2 Stable
 - Crafting restricted to backpack and campfire recipes only which includes crafting a Backpacker Workbench
 - Purchase, loot, or accept rewards for more advanced gear 
 - Sell or salvage the Chemistry Table, Cement Mixer, and Forge if you acquire one, unless you need an oversized paperweight
@@ -13,7 +14,7 @@ RULES:
 
 Brought to the community by arramus.
 	  </Description>
-        <Version>2</Version>
+        <Version>Latest</Version>
 		<RSS/>
         <Excludes></Excludes>
         <ReleaseNotes></ReleaseNotes>

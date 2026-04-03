@@ -1,7 +1,6 @@
 <BackpackerChallenge>
 
-	<!-- Requested by Flat Lander and accepted to assist with compatibility issues for additional mods and expansions -->
-	<!-- Efficient batch removals for load order compatibility, future compatibility, and expansion mod compatibility -->
+	<!-- Batch removal for load order compatibility, future compatibility, and expansion mod compatibility -->
 	<remove xpath="/recipes/recipe[@craft_area='forge']" />
 	<remove xpath="/recipes/recipe[@craft_area='workbench']" />
 	<remove xpath="/recipes/recipe[@craft_area='cementMixer']" />
